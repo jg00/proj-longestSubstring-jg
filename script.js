@@ -2,7 +2,7 @@ let words = ["xxbxx", "xbx", "x"];
 // let words = ["aabb", "aaaa", "bbab"];
 // let words = ["dd", "bb", "cc", "dd"];
 
-// Run
+// Test Run
 console.log(longestSubstring(words)); // ex result { letter: 'x', length: 4 }
 
 function longestSubstring(words) {
